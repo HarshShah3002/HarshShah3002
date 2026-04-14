@@ -5,20 +5,16 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - uses: hugoct0/pacman-contribution-graph@main
         with:
           github_user_name: HarshShah3002
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          output_dir: dist
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:

@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-harshtshah.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="/cdn-cgi/l/email-protection#caa2abb8b9a2e4b9a2aba28abeaba7bfe4afaebf">
+  <a href="mailto:harsh.shah@tamu.edu">
     <img src="https://img.shields.io/badge/Email-harsh.shah@tamu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -33,7 +33,7 @@
 - 👯 Open to collaborating on analytics, open-source, and applied AI projects
 - 🤖 PSM 1 Certified — shipped things in real sprint environments, not just read about them
 - 💬 I like breaking down complex things until they're simple. Simple is harder than it sounds.
-- 📫 Reach me at: [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0a626b7879622479626b624a7e6b677f246f6e7f">[email&#160;protected]</a>](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c7afa6b5b4afe9b4afa6af87b3a6aab2e9a2a3b2">[email&#160;protected]</a>) or [LinkedIn](https://www.linkedin.com/in/harshshah3002)
+- 📫 Reach me at: [harsh.shah@tamu.edu](mailto:harsh.shah@tamu.edu) or [LinkedIn](https://www.linkedin.com/in/harshshah3002)
 
 
 ---
@@ -158,4 +158,11 @@ Product & PM:   Jira, Notion, GitHub Actions, PRDs, Roadmapping, Agile/Scrum (PS
 <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28"/> &nbsp; **Let's Connect**
 
 - 🌐 [Portfolio](https://harshtshah.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshshah
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshshah3002)
+- 📫 [harsh.shah@tamu.edu](mailto:harsh.shah@tamu.edu)
+
+---
+
+<p align="center">
+  <em>Graduating May 2026. Open to full-time roles in data analytics, business analytics, data engineering, and product management. If you're working on something interesting, let's talk.</em>
+</p>

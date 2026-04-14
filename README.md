@@ -74,20 +74,18 @@ Built Tableau dashboards on cardiovascular illness trends and Netflix engagement
 
 ### 🛒 [Retail Analytics — End-to-End Data Analytics System](https://github.com/HarshShah3002/retail-analytics)
 
-Most businesses are sitting on data they never actually use.
+Businesses make hundreds of decisions every day, and a lot of them come from data. I wanted to understand how exactly that works, so I took a real dataset of 1 million+ transactions from a UK wholesale company and spent the last few weeks building something end to end.
 
-I wanted to understand what you could find if you actually dug into it. So I took a real dataset — 1 million+ transactions from a UK wholesale company — and spent several weeks building something end to end: from a raw Excel file to a fully deployed, AI-powered analytics dashboard.
-
-Here's what's inside:
+Here's what the project covers:
 
 🧹 Cleaned 1M+ raw transactions down to 805K quality records  
 📊 Loaded into MySQL and ran real business SQL queries  
-📈 14 interactive charts covering sales trends, seasonality, and customer behaviour  
-👥 RFM segmentation — 22% of customers drive 68% of revenue  
+📈 Built 14 interactive charts covering sales trends, seasonality and customer behaviour  
+👥 RFM segmentation: turns out 22% of customers drive 68% of revenue  
 🔄 Cohort retention heatmap across 25 monthly cohorts  
-🛒 Market basket analysis — product pairs 30x more likely to be bought together  
-🔮 Random Forest ML model forecasting 6 months ahead (R² = 0.707)  
-🤖 GenAI business analyst chatbot — ask it anything about the business, get real data-backed answers instantly
+🛒 Market basket analysis: found product pairs 30x more likely to be bought together  
+🔮 Random Forest model forecasting 6 months of revenue ahead (R² = 0.707)  
+🤖 Built a GenAI business analyst on top of it: ask it anything about the business, get real data-backed answers instantly
 
 👉 **[Live Dashboard](https://harsh-retail-analytics-project.streamlit.app)** &nbsp;|&nbsp; `Python` `MySQL` `Scikit-learn` `Streamlit` `Gemini API`
 

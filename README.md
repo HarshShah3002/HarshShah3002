@@ -147,10 +147,14 @@ Product & PM:   Jira, Notion, GitHub Actions, PRDs, Roadmapping, Agile/Scrum (PS
 
 ---
 
-### 🐍 Contributions in motion
+### 🟡 Contributions in motion
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarshShah3002/HarshShah3002/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HarshShah3002/HarshShah3002/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HarshShah3002/HarshShah3002/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/HarshShah3002/HarshShah3002/output/pacman-contribution-graph.svg"/>
+  </picture>
 </p>
 
 ---

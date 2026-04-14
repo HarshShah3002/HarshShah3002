@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-harshtshah.vercel.app-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:harsh.shah@tamu.edu">
+  <a href="/cdn-cgi/l/email-protection#caa2abb8b9a2e4b9a2aba28abeaba7bfe4afaebf">
     <img src="https://img.shields.io/badge/Email-harsh.shah@tamu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -33,8 +33,8 @@
 - 👯 Open to collaborating on analytics, open-source, and applied AI projects
 - 🤖 PSM 1 Certified — shipped things in real sprint environments, not just read about them
 - 💬 I like breaking down complex things until they're simple. Simple is harder than it sounds.
-- 📫 Reach me at: [harsh.shah@tamu.edu](mailto:harsh.shah@tamu.edu) or [LinkedIn](https://www.linkedin.com/in/harshshah3002)
-- 😄 Fun fact: I once found that a "retail" business had near-zero Saturday orders — that single data point revealed it was actually a B2B wholesale operation. That's what I love about this work.
+- 📫 Reach me at: [<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0a626b7879622479626b624a7e6b677f246f6e7f">[email&#160;protected]</a>](mailto:<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="c7afa6b5b4afe9b4afa6af87b3a6aab2e9a2a3b2">[email&#160;protected]</a>) or [LinkedIn](https://www.linkedin.com/in/harshshah3002)
+
 
 ---
 
@@ -52,8 +52,6 @@ What I consistently work on:
 2. 🧠 Product thinking and translating ambiguous problems into structured solutions
 3. 🤖 GenAI systems, agentic workflows, and modern data platforms
 4. 🚀 Cloud infrastructure and scalable data pipelines
-
-Outside the terminal, you'll find me on the cricket field, watching F1 qualifiers, or building the next thing.
 
 Actively looking for full-time opportunities in **Data Analytics, Business Analytics, Data Engineering, and Product Management** starting May 2026.
 
@@ -95,11 +93,15 @@ Here's what's inside:
 
 ---
 
-### 🧱 Predictive Modeling for Concrete Strength
+### 🧱 [Predictive Modeling for Concrete Strength](https://predictive-modeling-concrete-strength.streamlit.app/)
 
-Built an end-to-end prediction dashboard — input a concrete mix, get a compressive strength forecast with GenAI-powered recommendations on what to adjust and why. Not just a model. An actual tool someone in civil engineering could open and use.
+Concrete compressive strength depends on 8 material variables — cement, water, slag, ash, superplasticizer, coarse and fine aggregate, and age. The question was: can you predict strength from a mix before you even pour it?
 
-`Python` `Streamlit` `Ridge Regression` `LDA/QDA/KNN` `Plotly` `Gemini 2.5 Flash`
+Built a full prediction dashboard where you input your mix ratios and get an instant compressive strength forecast. Under the hood it runs multiple models — Ridge Regression, Decision Tree, LDA, QDA, and KNN — and selects the best fit. On top of that, a GenAI layer (Gemini 2.5 Flash) translates the model output into plain-language recommendations: which ingredient to adjust, by how much, and why.
+
+The KPI explorer surfaces ingredient-strength trends through quantile binning and Plotly visualisations, so you can understand not just the prediction but the patterns driving it. The kind of tool a materials engineer or construction team could actually open and use on a real project.
+
+👉 **[Live Dashboard](https://predictive-modeling-concrete-strength.streamlit.app/)** &nbsp;|&nbsp; `Python` `Streamlit` `Ridge Regression` `LDA/QDA/KNN` `Plotly` `Gemini 2.5 Flash`
 
 ---
 
@@ -156,11 +158,4 @@ Product & PM:   Jira, Notion, GitHub Actions, PRDs, Roadmapping, Agile/Scrum (PS
 <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28"/> &nbsp; **Let's Connect**
 
 - 🌐 [Portfolio](https://harshtshah.vercel.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshshah3002)
-- 📫 [harsh.shah@tamu.edu](mailto:harsh.shah@tamu.edu)
-
----
-
-<p align="center">
-  <em>Graduating May 2026. Open to full-time roles in data analytics, business analytics, data engineering, and product management. If you're working on something interesting, let's talk.</em>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshshah

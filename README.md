@@ -133,11 +133,7 @@ Product & PM:   Jira, Notion, GitHub Actions, PRDs, Roadmapping, Agile/Scrum (PS
 
 <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="28"/> &nbsp; **GitHub Stats**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshShah3002&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshShah3002&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshShah3002&theme=tokyonight&hide_border=true" height="150"/>
